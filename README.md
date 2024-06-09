@@ -1,0 +1,1 @@
+Projeto X-devs é uma versão mais descontraída dos X-men. Mostrando como seriam os personagens do mangá se estivessem envolvidos no mundo da Programação, esse projeto é uma página da web desenvolvida apartir da implementação da tríade perfeita do Front-end (HTML, CSS e JavaScript). 
